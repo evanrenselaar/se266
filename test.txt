@@ -1,16 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 62AD-B02D
-
- Directory of C:\PHP-DEV-KIT\xampp\htdocs\se266\week3
-
-10/17/2017  04:39 PM    <DIR>          .
-10/17/2017  04:39 PM    <DIR>          ..
-10/17/2017  04:36 PM                12 .gitignore
-07/18/2017  01:53 PM    <DIR>          demo
-10/17/2017  04:36 PM               374 index.php
-10/17/2017  04:36 PM                 9 README.cmd
-10/17/2017  04:39 PM                 0 test.txt
-07/18/2017  01:54 PM    <DIR>          video
-10/17/2017  04:36 PM    <DIR>          week1
-               4 File(s)            395 bytes
-               5 Dir(s)  1,786,626,412,544 bytes free
+Changed this file
